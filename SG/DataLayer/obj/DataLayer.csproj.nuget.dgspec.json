@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/DataLayer.csproj": {}
+  },
+  "projects": {
+    "/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/DataLayer.csproj",
+        "projectName": "DataLayer",
+        "projectPath": "/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/DataLayer.csproj",
+        "packagesPath": "/Users/xiaoluo/.nuget/packages/",
+        "outputPath": "/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xiaoluo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

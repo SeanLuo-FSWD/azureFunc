@@ -1,0 +1,14 @@
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/bin/Debug/net6.0/DataLayer.deps.json
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/bin/Debug/net6.0/DataLayer.runtimeconfig.json
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/bin/Debug/net6.0/DataLayer.dll
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/bin/Debug/net6.0/ref/DataLayer.dll
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/bin/Debug/net6.0/DataLayer.pdb
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/DataLayer.csproj.AssemblyReference.cache
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/DataLayer.AssemblyInfoInputs.cache
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/DataLayer.AssemblyInfo.cs
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/DataLayer.csproj.CoreCompileInputs.cache
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/DataLayer.dll
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/ref/DataLayer.dll
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/DataLayer.pdb
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/DataLayer.genruntimeconfig.cache
