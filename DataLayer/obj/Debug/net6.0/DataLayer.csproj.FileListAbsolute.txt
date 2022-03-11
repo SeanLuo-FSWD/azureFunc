@@ -12,3 +12,8 @@
 /Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/ref/DataLayer.dll
 /Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/DataLayer.pdb
 /Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/DataLayer/obj/Debug/net6.0/DataLayer.genruntimeconfig.cache
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/Functions/bin/output/DataLayer.deps.json
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/Functions/bin/output/DataLayer.runtimeconfig.json
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/Functions/bin/output/DataLayer.dll
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/Functions/bin/output/ref/DataLayer.dll
+/Users/xiaoluo/Documents/__aa4_2YEARS_TERM/COMP4514_ASP/3_LESSON/wk10_azure_functions/Lab/AzureFunctionsEF/Functions/bin/output/DataLayer.pdb

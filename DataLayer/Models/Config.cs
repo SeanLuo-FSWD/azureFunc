@@ -1,9 +1,8 @@
-using System.IO;
 using Microsoft.Extensions.Configuration;
 
 namespace DataLayer.Models
 {
-public static class Config {
+    public static class Config {
     private static IConfiguration configuration;
     static Config() {
         var builder = new ConfigurationBuilder()
@@ -19,5 +18,4 @@ public static class Config {
         return appSettings;
     }
 }
-
 }
